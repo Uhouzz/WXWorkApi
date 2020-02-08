@@ -1,0 +1,16 @@
+PODS:
+  - WXWorkApi (1.0.0)
+
+DEPENDENCIES:
+  - WXWorkApi (from `../`)
+
+EXTERNAL SOURCES:
+  WXWorkApi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WXWorkApi: eafa9b89049a4ec37ef4ff9573cfc53820a311b5
+
+PODFILE CHECKSUM: 7a358fea135d6f5ea3ef0a06742c6c76708e6153
+
+COCOAPODS: 1.8.4
